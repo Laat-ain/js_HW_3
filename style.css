@@ -1,0 +1,18 @@
+#flex{
+	display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#btn{
+	margin-bottom: 20px;
+}
+
+#img_car{
+	width: 500px;
+	height: 350px;
+}
+
+#text_car_characteristics{
+	height: 74px;
+}
